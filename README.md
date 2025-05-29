@@ -1,16 +1,48 @@
-# sudoku
+# Sudoku Adventure
 
-A new Flutter project.
+Sudoku Adventure is a beautifully designed, feature-rich Sudoku puzzle game built with Flutter. It offers a modern, engaging experience for players of all skill levels, with a focus on smooth animations, smart hints, and progressive level challenges.
+
+## Features
+- 🎨 Elegant UI with animated transitions and splash screen
+- 🧩 100 handcrafted levels (6x6 and 9x9 puzzles)
+- 💡 Smart AI hints and logical step solver
+- 🏆 Level progression and completion tracking
+- 🔊 Sound effects and confetti celebration on win
+- 📱 Responsive design for all devices
+- 📢 Banner ads integration (Google Mobile Ads)
+- 🎯 Adaptive launcher icons for Android & iOS
+
+## Screenshots
+*Add your screenshots here!*
 
 ## Getting Started
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/krutpanda/sudoku.git
+   cd sudoku
+   ```
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
+3. **Run the app:**
+   ```sh
+   flutter run
+   ```
+4. **Build APK:**
+   ```sh
+   flutter build apk --release
+   ```
 
-This project is a starting point for a Flutter application.
+## Folder Structure
+- `lib/` — Main Dart source code
+- `assets/` — Images, icons, sounds, and animations
+- `android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/` — Platform-specific code
 
-A few resources to get you started if this is your first Flutter project:
+## Credits
+- Built with [Flutter](https://flutter.dev/)
+- Lottie animations from [lottiefiles.com](https://lottiefiles.com/)
+- Sudoku puzzles and logic by krut panada
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
