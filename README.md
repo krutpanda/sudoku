@@ -46,6 +46,16 @@
 
 ---
 
+## Download
+
+<p align="center">
+  <a href="https://github.com/krutpanda/sudoku/releases/latest/download/app-release%20(4).apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?logo=android" alt="Download APK" />
+  </a>
+</p>
+
+---
+
 ## Getting Started
 1. **Clone the repository:**
    ```sh
