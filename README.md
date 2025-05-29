@@ -13,7 +13,12 @@ Sudoku Adventure is a beautifully designed, feature-rich Sudoku puzzle game buil
 - 🎯 Adaptive launcher icons for Android & iOS
 
 ## Screenshots
-*Add your screenshots here!*
+
+<p align="center">
+  <img src="assets/screenshots/screenshot1.png" alt="Home Screen" width="300"/>
+  <img src="assets/screenshots/screenshot2.png" alt="Game Screen" width="300"/>
+  <img src="assets/screenshots/screenshot3.png" alt="Level Select" width="300"/>
+</p>
 
 ## Getting Started
 1. **Clone the repository:**
