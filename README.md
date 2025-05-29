@@ -15,9 +15,10 @@ Sudoku Adventure is a beautifully designed, feature-rich Sudoku puzzle game buil
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png" alt="Home Screen" width="300"/>
-  <img src="assets/screenshots/screenshot2.png" alt="Game Screen" width="300"/>
-  <img src="assets/screenshots/screenshot3.png" alt="Level Select" width="300"/>
+  <img src="assets/screenshots/screenshot1.jpeg" alt="Home Screen" width="300"/>
+  <img src="assets/screenshots/screenshot2.jpeg" alt="Game Screen" width="300"/>
+  <img src="assets/screenshots/screenshot3.jpeg" alt="Level Select" width="300"/>
+  <img src="assets/screenshots/screenshot4.jpeg" alt="Extra Screenshot" width="300"/>
 </p>
 
 ## Getting Started
