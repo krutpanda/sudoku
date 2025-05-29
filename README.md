@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Sudoku Adventure Logo" width="120"/>
+  <img src="assets/icon.png" alt="Sudoku Adventure Logo" width="120"/>
 </p>
 
 # Sudoku Adventure
